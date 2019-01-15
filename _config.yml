@@ -1,6 +1,10 @@
 ---
 exclude: ['README.markdown']
 permalink: ':title'
-pygments: true
+highlighter: rouge
 safe: false
 title: 'Cyclair Dokumentation'
+
+
+# commented out because of incompatibility with github pages
+# pygments: true
