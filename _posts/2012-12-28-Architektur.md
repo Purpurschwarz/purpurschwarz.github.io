@@ -2,7 +2,7 @@
 path: '/login'
 title: 'Architektur'
 
-layout: nil
+# layout: nil
 ---
 
 Die Architektur der Webanwendung sieht wie folgt aus: 

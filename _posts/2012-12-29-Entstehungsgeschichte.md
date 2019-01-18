@@ -4,7 +4,7 @@
 title: 'Entstehungsgeschichte'
 # type: 'GET'
 
-layout: nil
+# layout: nil
 ---
 
 <img src="/../img/cylairLogo.png" alt="Cyclair-Logo" style="max-width: 200px" />

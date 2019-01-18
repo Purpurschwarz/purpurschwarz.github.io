@@ -6,7 +6,7 @@ type: 'Impressum'
 type2: 'Datenschutz' 
 
 
-layout: nil
+# layout: nil
 ---
 
 

@@ -4,7 +4,7 @@
 title: 'Schnittstellen'
 # type: 'POST'
 
-layout: nil
+# layout: nil
 ---
 
 ### Mapbox API
@@ -13,7 +13,7 @@ Die Darstellung der Routenverläufe wird über die Kartendaten von [Mapbox](http
 
 ### Graphhopper API
 
-Graphhopper ermittelt nach Übergabe von Start- und Zielpunkt die Routen.
+[Graphhopper](https://graphhopper.com/api/1/docs/) ermittelt nach Übergabe von Start- und Zielpunkt die Routen.
 
 ### Luftdaten API
 
